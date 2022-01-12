@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miottia
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in NFT's and their role in decentralised communities 
 - 🌱 I’m currently learning the basics of solidity 
 - 💞️ As my skills develop I will be looking to collaborate on NFT based projects 
